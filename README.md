@@ -7,3 +7,12 @@ gender outputs their (Akan) Ghanian Name.
 ## Author's information
 ## Name:
 Silvia Kago
+### Occupation
+student
+## Technologies used
+*HTML
+*Bootstrap
+*Javascript
+## Contacts
+Email: deejaykayslyk@gmail.com
+tel:    +254 792717754
